@@ -41,7 +41,7 @@ O perfil padrão será Damas Brasileiras em tabuleiro 8×8. O modo personalizado
 ## Configuração Android
 
 - Namespace/applicationId: com.huzeifa.damas
-- minSdk: 23
+- minSdk: 24
 - compileSdk/targetSdk: 36
 - JDK: 17
 - Android Gradle Plugin: 8.13.2
