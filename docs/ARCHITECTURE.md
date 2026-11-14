@@ -45,7 +45,7 @@ O perfil padrão será Damas Brasileiras em tabuleiro 8×8. O modo personalizado
 - compileSdk/targetSdk: 36
 - JDK: 17
 - Android Gradle Plugin: 8.13.2
-- Gradle CI: 8.13.0
+- Gradle CI: 8.13
 - Kotlin: 2.3.21
 - NDK: 27.0.12077973
 - CMake: 3.22.1
