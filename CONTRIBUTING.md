@@ -6,7 +6,7 @@
 - Android SDK Platform 36.
 - Android NDK 27.0.12077973.
 - CMake 3.22.1.
-- Gradle 8.13.0.
+- Gradle 8.13.
 - Android Studio compatível com AGP 8.13.2.
 
 ## Convenções
