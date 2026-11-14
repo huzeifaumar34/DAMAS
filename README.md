@@ -25,7 +25,7 @@ Jogo de damas para Android, focado nas regras brasileiras, partidas offline, doi
 - armeabi-v7a — ARM de 32 bits.
 - arm64-v8a — ARM de 64 bits.
 
-O Gradle está fixado em 8.13.0 no workflow e o Android Gradle Plugin em 8.13.2. O CI instala JDK 17 e o Android SDK/NDK necessários.
+O Gradle está fixado em 8.13 no workflow e o Android Gradle Plugin em 8.13.2. O CI instala JDK 17 e o Android SDK/NDK necessários.
 
 ## Compilar e obter APKs
 
@@ -36,7 +36,7 @@ O Gradle está fixado em 8.13.0 no workflow e o Android Gradle Plugin em 8.13.2.
 
 O artefacto inclui os APKs separados por arquitetura e o APK universal. São builds de depuração (debug), adequados para testes.
 
-Para compilar localmente, abre o projeto no Android Studio com JDK 17 e Gradle 8.13.0 instalados.
+Para compilar localmente, abre o projeto no Android Studio com JDK 17 e Gradle 8.13 instalados.
 
 ## Estrutura principal
 
